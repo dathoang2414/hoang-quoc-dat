@@ -2,6 +2,10 @@
 /node_modules
 package-lock.json
 
+## Ignore database sqlite
+/prisma/dev.db
+/prisma/migrations
+
 ## Ignore build
 /build
 /dist
